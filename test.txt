@@ -1,0 +1,22 @@
+  AWS IAM practice:
+  
+  Console sign-in URL
+
+https://891376986181.signin.aws.amazon.com/console
+User name
+
+test-user-501
+Console password
+
+vO$r2b!K
+
+
+Console sign-in URL
+
+https://891376986181.signin.aws.amazon.com/console
+User name
+
+Tasha
+Console password
+
+lArZ9-V9
