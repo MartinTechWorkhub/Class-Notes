@@ -58,3 +58,7 @@ When a new file was just added
         new file:   myfile.txt
 
 $ git restore --source=HEAD --staged --worktree <filename> to restore all misatkes you made on a local repository
+
+
+N/B to rescan vmware after adding disk storage: 
+for files in /sys/class/scsi_device/*/device/rescan ; do echo 1 > $files;done
