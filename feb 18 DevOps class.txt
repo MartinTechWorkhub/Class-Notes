@@ -140,3 +140,4 @@ c../../../ takes you to directory behind the class5
 and this is a continous process depending on how many dirctory you have on your home 
 cd -   = takes you to your last Directory
 cd     = takes you to the user's home Directory
+learning linux
